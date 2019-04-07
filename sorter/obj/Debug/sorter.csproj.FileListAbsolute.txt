@@ -1,0 +1,44 @@
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\sorter\sorter\obj\Debug\sorter.csprojAssemblyReference.cache
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\sorter\sorter\obj\Debug\MainWindow.g.cs
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\sorter\sorter\obj\Debug\App.g.cs
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\sorter\sorter\obj\Debug\sorter_MarkupCompile.cache
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\sorter\sorter\obj\Debug\sorter_MarkupCompile.lref
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\sorter\sorter\bin\Debug\sorter.exe.config
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\sorter\sorter\bin\Debug\sorter.exe
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\sorter\sorter\bin\Debug\sorter.pdb
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\sorter\sorter\obj\Debug\MainWindow.baml
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\sorter\sorter\obj\Debug\sorter.g.resources
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\sorter\sorter\obj\Debug\sorter.Properties.Resources.resources
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\sorter\sorter\obj\Debug\sorter.csproj.GenerateResource.cache
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\sorter\sorter\obj\Debug\sorter.csproj.CoreCompileInputs.cache
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\sorter\sorter\obj\Debug\sorter.exe
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\sorter\sorter\obj\Debug\sorter.pdb
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\sorter\sorter\obj\Debug\arrays.g.cs
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\sorter\sorter\obj\Debug\arrays.baml
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\sorter\sorter\bin\Debug\NAudio.dll
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\sorter\sorter\bin\Debug\NAudio.xml
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\sorter\sorter\obj\Debug\sorter.csproj.CopyComplete
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\sorter\sorter\obj\Debug\Interop.WMPLib.dll
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\sorter\sorter\obj\Debug\sorter.csproj.ResolveComReference.cache
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\sorter\sorter\bin\Debug\sorter.exe.config
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\sorter\sorter\bin\Debug\sorter.exe
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\sorter\sorter\bin\Debug\sorter.pdb
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\sorter\sorter\bin\Debug\NAudio.dll
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\sorter\sorter\bin\Debug\NAudio.xml
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\sorter\sorter\obj\Debug\sorter.csprojAssemblyReference.cache
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\sorter\sorter\obj\Debug\Interop.WMPLib.dll
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\sorter\sorter\obj\Debug\sorter.csproj.ResolveComReference.cache
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\sorter\sorter\obj\Debug\arrays.g.cs
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\sorter\sorter\obj\Debug\MainWindow.g.cs
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\sorter\sorter\obj\Debug\App.g.cs
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\sorter\sorter\obj\Debug\sorter_MarkupCompile.cache
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\sorter\sorter\obj\Debug\sorter_MarkupCompile.lref
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\sorter\sorter\obj\Debug\arrays.baml
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\sorter\sorter\obj\Debug\MainWindow.baml
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\sorter\sorter\obj\Debug\sorter.g.resources
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\sorter\sorter\obj\Debug\sorter.Properties.Resources.resources
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\sorter\sorter\obj\Debug\sorter.csproj.GenerateResource.cache
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\sorter\sorter\obj\Debug\sorter.csproj.CoreCompileInputs.cache
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\sorter\sorter\obj\Debug\sorter.csproj.CopyComplete
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\sorter\sorter\obj\Debug\sorter.exe
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\sorter\sorter\obj\Debug\sorter.pdb
